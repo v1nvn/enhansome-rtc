@@ -40,7 +40,7 @@
 
 ### SIP Servers
 
-* [Sippy B2BUA](https://github.com/sippy/b2bua) ⭐ 196 | 🐛 28 | 🌐 Python | 📅 2026-02-02 - Back-to-back user agent server written in Python.
+* [Sippy B2BUA](https://github.com/sippy/b2bua) ⭐ 196 | 🐛 28 | 🌐 Python | 📅 2026-02-07 - Back-to-back user agent server written in Python.
 * [Flexisip](https://github.com/BelledonneCommunications/flexisip) ⭐ 175 | 🐛 19 | 🌐 C++ | 📅 2026-02-06 - SIP server suite comprising proxy, presence and group chat functions.
 * [Kamailio](http://www.kamailio.org) - Open source SIP server widely deployed by carriers and providers. Formerly known as OpenSER.
 * [OpenSIPS](http://www.opensips.org) - Open source SIP server, tracing its roots in OpenSER (presently Kamailio).
@@ -57,7 +57,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 13,560 | 🐛 376 | 🌐 C | 📅 2026-02-04 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 13,561 | 🐛 376 | 🌐 C | 📅 2026-02-04 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,575 | 🐛 15 | 🌐 C++ | 📅 2024-06-30 - RFC compliant open source STUN implementation.
 * [eturnal](https://eturnal.net/) - Modern and scalable STUN/TURN server written in Erlang.
 
@@ -88,7 +88,7 @@
 
 * [Fonoster](https://github.com/fonoster/fonoster) ⭐ 7,547 | 🐛 14 | 🌐 TypeScript | 📅 2026-02-04 - Telecommunication stack built with Node.js.
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 220 | 🐛 83 | 🌐 PHP | 📅 2026-02-03 - Multitenant solution for VoIP telephony providers.
-* [Sayna](https://github.com/SaynaAI/sayna) ⭐ 120 | 🐛 2 | 🌐 Rust | 📅 2026-02-07 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
+* [Sayna](https://github.com/SaynaAI/sayna) ⭐ 121 | 🐛 2 | 🌐 Rust | 📅 2026-02-07 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
 * [Kazoo](https://www.2600hz.org) - Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.
 * [FusionPBX](https://www.fusionpbx.com) - Multitenant system built on top of FreeSWITCH.
@@ -125,7 +125,7 @@
 
 ### C/C++ Libraries
 
-* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,468 | 🐛 137 | 🌐 C++ | 📅 2026-02-07 - Standalone WebRTC DataChannels C++ implementation.
+* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,468 | 🐛 135 | 🌐 C++ | 📅 2026-02-07 - Standalone WebRTC DataChannels C++ implementation.
 * [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,357 | 🐛 39 | 🌐 C | 📅 2026-02-04 - Secure Real-time Transport Protocol (SRTP) library for C.
 * [usrsctp](https://github.com/sctplab/usrsctp) ⭐ 740 | 🐛 167 | 🌐 C | 📅 2025-10-16 - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 * [libre](https://github.com/creytiv/re) ⭐ 544 | 🐛 18 | 🌐 C | 📅 2024-02-06 - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
