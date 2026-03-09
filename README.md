@@ -58,7 +58,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 13,694 | 🐛 378 | 🌐 C | 📅 2026-03-07 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 13,697 | 🐛 376 | 🌐 C | 📅 2026-03-09 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,587 | 🐛 12 | 🌐 C++ | 📅 2026-02-13 - RFC compliant open source STUN implementation.
 
   ## Operations
@@ -87,9 +87,9 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 7,708 | 🐛 15 | 🌐 TypeScript | 📅 2026-02-28 - Telecommunication stack built with Node.js.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 7,711 | 🐛 15 | 🌐 TypeScript | 📅 2026-02-28 - Telecommunication stack built with Node.js.
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 221 | 🐛 89 | 🌐 PHP | 📅 2026-03-06 - Multitenant solution for VoIP telephony providers.
-* [Sayna](https://github.com/SaynaAI/sayna) ⭐ 157 | 🐛 0 | 🌐 Rust | 📅 2026-02-08 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
+* [Sayna](https://github.com/SaynaAI/sayna) ⭐ 157 | 🐛 0 | 🌐 Rust | 📅 2026-03-08 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
 * [Kazoo](https://www.2600hz.org) - Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.
 * [FusionPBX](https://www.fusionpbx.com) - Multitenant system built on top of FreeSWITCH.
@@ -126,8 +126,8 @@
 
 ### C/C++ Libraries
 
-* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,506 | 🐛 140 | 🌐 C++ | 📅 2026-03-06 - Standalone WebRTC DataChannels C++ implementation.
-* [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,365 | 🐛 32 | 🌐 C | 📅 2026-03-06 - Secure Real-time Transport Protocol (SRTP) library for C.
+* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,507 | 🐛 140 | 🌐 C++ | 📅 2026-03-06 - Standalone WebRTC DataChannels C++ implementation.
+* [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,365 | 🐛 31 | 🌐 C | 📅 2026-03-08 - Secure Real-time Transport Protocol (SRTP) library for C.
 * [usrsctp](https://github.com/sctplab/usrsctp) ⭐ 744 | 🐛 167 | 🌐 C | 📅 2025-10-16 - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 * [libre](https://github.com/creytiv/re) ⭐ 544 | 🐛 19 | 🌐 C | 📅 2024-02-06 - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
 * [rawrtc](https://github.com/rawrtc/rawrtc) ⭐ 390 | 🐛 59 | 🌐 C | 📅 2021-12-23 - WebRTC and ORTC library with a small footprint.
@@ -150,7 +150,7 @@
 
 ### Python Libraries
 
-* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,023 | 🐛 28 | 🌐 Python | 📅 2025-11-29 - WebRTC and ORTC implementation for Python using asyncio.
+* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,025 | 🐛 28 | 🌐 Python | 📅 2025-11-29 - WebRTC and ORTC implementation for Python using asyncio.
 * [peerjs-python](https://github.com/ambianic/peerjs-python) ⭐ 97 | 🐛 6 | 🌐 Python | 📅 2024-01-31 - Python port of the PeerJS peer-to-peer connection library.
 * [Katari](https://github.com/hyperioxx/Katari) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2022-12-25 - SIP stack application framework.
 
@@ -161,7 +161,7 @@
 
 ### Rust Libraries
 
-* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 4,969 | 🐛 9 | 🌐 Rust | 📅 2026-03-08 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
+* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 4,970 | 🐛 9 | 🌐 Rust | 📅 2026-03-08 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
 * [sipcore](https://github.com/armatusmiles/sipcore) ⭐ 31 | 🐛 5 | 🌐 Rust | 📅 2021-03-14 - Rust framework for creating SIP applications.
 * [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP implementation, with a focus towards softphone clients.
 
@@ -194,7 +194,7 @@
 
 ## Related Lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 3,640 | 🐛 1 | 📅 2025-06-08 - Research resources in the 3G/4G/5G Cellular security space.
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 3,642 | 🐛 1 | 📅 2025-06-08 - Research resources in the 3G/4G/5G Cellular security space.
 * [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 907 | 🐛 1 | 🌐 Python | 📅 2026-03-06 - Telco resources and projects.
 * [Awesome 5G](https://github.com/calee0219/awesome-5g) ⭐ 872 | 🐛 4 | 🌐 Shell | 📅 2026-02-03 - 5G frameworks, libraries, software and resources.
 * [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 520 | 🐛 0 | 📅 2025-07-25 - Real Time Communications hacking and penetration testing resources.
