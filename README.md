@@ -58,7 +58,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 13,722 | 🐛 373 | 🌐 C | 📅 2026-03-13 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 13,724 | 🐛 372 | 🌐 C | 📅 2026-03-15 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,589 | 🐛 12 | 🌐 C++ | 📅 2026-02-13 - RFC compliant open source STUN implementation.
 
   ## Operations
@@ -76,7 +76,7 @@
 
 ### Testing
 
-* [SIPVicious](https://github.com/EnableSecurity/sipvicious) ⭐ 1,048 | 🐛 0 | 🌐 Python | 📅 2026-03-06 - Suite of security tools that can be used to audit SIP based VoIP systems.
+* [SIPVicious](https://github.com/EnableSecurity/sipvicious) ⭐ 1,049 | 🐛 0 | 🌐 Python | 📅 2026-03-06 - Suite of security tools that can be used to audit SIP based VoIP systems.
 * [sipexer](https://github.com/miconda/sipexer) ⭐ 379 | 🐛 2 | 🌐 Go | 📅 2026-01-05 - Modern and flexible SIP command line tool.
 * [sipsak](https://github.com/nils-ohlmeier/sipsak) ⭐ 169 | 🐛 24 | 🌐 C | 📅 2025-05-26 - SIP stress and diagnostics utility.
 * [SIPp](http://sipp.sourceforge.net) - Traffic generator for the SIP protocol.
@@ -87,7 +87,7 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 7,712 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-13 - Telecommunication stack built with Node.js.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 7,713 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-13 - Telecommunication stack built with Node.js.
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 221 | 🐛 89 | 🌐 PHP | 📅 2026-03-12 - Multitenant solution for VoIP telephony providers.
 * [Sayna](https://github.com/SaynaAI/sayna) ⭐ 159 | 🐛 0 | 🌐 Rust | 📅 2026-03-08 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
@@ -127,8 +127,8 @@
 ### C/C++ Libraries
 
 * [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,517 | 🐛 138 | 🌐 C++ | 📅 2026-03-12 - Standalone WebRTC DataChannels C++ implementation.
-* [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,366 | 🐛 32 | 🌐 C | 📅 2026-03-12 - Secure Real-time Transport Protocol (SRTP) library for C.
-* [usrsctp](https://github.com/sctplab/usrsctp) ⭐ 744 | 🐛 167 | 🌐 C | 📅 2025-10-16 - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
+* [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,366 | 🐛 30 | 🌐 C | 📅 2026-03-14 - Secure Real-time Transport Protocol (SRTP) library for C.
+* [usrsctp](https://github.com/sctplab/usrsctp) ⭐ 745 | 🐛 167 | 🌐 C | 📅 2025-10-16 - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 * [libre](https://github.com/creytiv/re) ⭐ 545 | 🐛 19 | 🌐 C | 📅 2024-02-06 - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
 * [rawrtc](https://github.com/rawrtc/rawrtc) ⭐ 390 | 🐛 59 | 🌐 C | 📅 2021-12-23 - WebRTC and ORTC library with a small footprint.
 * [Sofia-SIP](https://github.com/freeswitch/sofia-sip) ⭐ 325 | 🐛 111 | 🌐 C | 📅 2026-03-10 - Open source SIP library used by FreeSWITCH.
@@ -161,7 +161,7 @@
 
 ### Rust Libraries
 
-* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 4,976 | 🐛 8 | 🌐 Rust | 📅 2026-03-08 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
+* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 4,978 | 🐛 8 | 🌐 Rust | 📅 2026-03-08 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
 * [sipcore](https://github.com/armatusmiles/sipcore) ⭐ 31 | 🐛 5 | 🌐 Rust | 📅 2021-03-14 - Rust framework for creating SIP applications.
 * [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP implementation, with a focus towards softphone clients.
 
