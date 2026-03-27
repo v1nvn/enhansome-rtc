@@ -48,7 +48,7 @@
 
 ### Media Servers
 
-* [RTP:Engine](https://github.com/sipwise/rtpengine) ⭐ 924 | 🐛 112 | 🌐 C | 📅 2026-03-25 - RTP and UDP based media traffic proxy, usable as a kernel module.
+* [RTP:Engine](https://github.com/sipwise/rtpengine) ⭐ 925 | 🐛 111 | 🌐 C | 📅 2026-03-26 - RTP and UDP based media traffic proxy, usable as a kernel module.
 * [SEMS](https://github.com/sems-server/sems) ⭐ 182 | 🐛 9 | 🌐 C++ | 📅 2026-03-16 - Open source media and application server for SIP based VoIP services.
 * [Janus](https://janus.conf.meetecho.com) - Lightweight open source, general purpose, WebRTC gateway.
 * [LiveKit](https://livekit.io) - Open-source WebRTC infrastructure for building scalable real-time audio and video applications.
@@ -58,7 +58,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 13,793 | 🐛 376 | 🌐 C | 📅 2026-03-17 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 13,793 | 🐛 375 | 🌐 C | 📅 2026-03-26 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,590 | 🐛 12 | 🌐 C++ | 📅 2026-02-13 - RFC compliant open source STUN implementation.
 
   ## Operations
@@ -87,8 +87,8 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 7,734 | 🐛 19 | 🌐 TypeScript | 📅 2026-03-25 - Telecommunication stack built with Node.js.
-* [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 221 | 🐛 90 | 🌐 PHP | 📅 2026-03-25 - Multitenant solution for VoIP telephony providers.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 7,737 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-26 - Telecommunication stack built with Node.js.
+* [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 221 | 🐛 90 | 🌐 PHP | 📅 2026-03-26 - Multitenant solution for VoIP telephony providers.
 * [Sayna](https://github.com/SaynaAI/sayna) ⭐ 162 | 🐛 0 | 🌐 Rust | 📅 2026-03-24 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
 * [Kazoo](https://www.2600hz.org) - Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.
@@ -126,8 +126,8 @@
 
 ### C/C++ Libraries
 
-* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,541 | 🐛 141 | 🌐 C++ | 📅 2026-03-12 - Standalone WebRTC DataChannels C++ implementation.
-* [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,369 | 🐛 31 | 🌐 C | 📅 2026-03-14 - Secure Real-time Transport Protocol (SRTP) library for C.
+* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,542 | 🐛 141 | 🌐 C++ | 📅 2026-03-12 - Standalone WebRTC DataChannels C++ implementation.
+* [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,369 | 🐛 32 | 🌐 C | 📅 2026-03-14 - Secure Real-time Transport Protocol (SRTP) library for C.
 * [usrsctp](https://github.com/sctplab/usrsctp) ⭐ 745 | 🐛 167 | 🌐 C | 📅 2025-10-16 - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 * [libre](https://github.com/creytiv/re) ⭐ 545 | 🐛 19 | 🌐 C | 📅 2024-02-06 - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
 * [rawrtc](https://github.com/rawrtc/rawrtc) ⭐ 390 | 🐛 59 | 🌐 C | 📅 2021-12-23 - WebRTC and ORTC library with a small footprint.
@@ -140,7 +140,7 @@
 ### Go Libraries
 
 * [gossip](https://github.com/StefanKopieczek/gossip) ⭐ 345 | 🐛 18 | 🌐 Go | 📅 2020-02-21 - SIP stack for stateful user agents written in Go.
-* [go-diameter](https://github.com/fiorix/go-diameter) ⭐ 284 | 🐛 21 | 🌐 Go | 📅 2026-03-13 - RFC compliant Diameter protocol library.
+* [go-diameter](https://github.com/fiorix/go-diameter) ⭐ 285 | 🐛 21 | 🌐 Go | 📅 2026-03-26 - RFC compliant Diameter protocol library.
 * [siprocket](https://github.com/marv2097/siprocket) ⭐ 74 | 🐛 1 | 🌐 Go | 📅 2022-08-23 - Fast SIP and SDP packet parser.
 * [Pion](https://pion.ly) - Extensive software stack for WebRTC written in Go.
 
@@ -150,7 +150,7 @@
 
 ### Python Libraries
 
-* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,030 | 🐛 32 | 🌐 Python | 📅 2025-11-29 - WebRTC and ORTC implementation for Python using asyncio.
+* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,031 | 🐛 32 | 🌐 Python | 📅 2025-11-29 - WebRTC and ORTC implementation for Python using asyncio.
 * [peerjs-python](https://github.com/ambianic/peerjs-python) ⭐ 97 | 🐛 6 | 🌐 Python | 📅 2024-01-31 - Python port of the PeerJS peer-to-peer connection library.
 * [Katari](https://github.com/hyperioxx/Katari) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2022-12-25 - SIP stack application framework.
 
@@ -161,7 +161,7 @@
 
 ### Rust Libraries
 
-* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 4,983 | 🐛 9 | 🌐 Rust | 📅 2026-03-08 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
+* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 4,985 | 🐛 9 | 🌐 Rust | 📅 2026-03-08 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
 * [sipcore](https://github.com/armatusmiles/sipcore) ⭐ 31 | 🐛 5 | 🌐 Rust | 📅 2021-03-14 - Rust framework for creating SIP applications.
 * [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP implementation, with a focus towards softphone clients.
 
@@ -195,7 +195,7 @@
 ## Related Lists
 
 * [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 3,662 | 🐛 0 | 📅 2026-03-21 - Research resources in the 3G/4G/5G Cellular security space.
-* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 911 | 🐛 1 | 🌐 Python | 📅 2026-03-21 - Telco resources and projects.
+* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 912 | 🐛 1 | 🌐 Python | 📅 2026-03-21 - Telco resources and projects.
 * [Awesome 5G](https://github.com/calee0219/awesome-5g) ⭐ 873 | 🐛 4 | 🌐 Shell | 📅 2026-02-03 - 5G frameworks, libraries, software and resources.
 * [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 525 | 🐛 0 | 📅 2025-07-25 - Real Time Communications hacking and penetration testing resources.
 * [SIP Resources](https://github.com/miconda/sip-resources) ⭐ 255 | 🐛 2 | 📅 2025-09-09 - Useful SIP resources curated by Kamailio's head developer.
